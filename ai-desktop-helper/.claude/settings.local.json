@@ -1,8 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(node_modules/electron/dist/Electron.app/Contents/MacOS/Electron --version)",
-      "Bash(xattr node_modules/electron/dist/Electron.app/Contents/MacOS/Electron)"
-    ]
-  }
-}
