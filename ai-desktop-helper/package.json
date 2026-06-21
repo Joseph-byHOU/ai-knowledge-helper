@@ -1,0 +1,16 @@
+{
+  "name": "ai-desktop-helper",
+  "version": "0.1.0",
+  "description": "AI 桌面学习助手 - 基于 Electron，融合 my-ai-daily-news",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron .",
+    "dev": "cross-env NODE_ENV=development electron ."
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "cross-env": "^7.0.3",
+    "electron": "^37.10.3"
+  }
+}

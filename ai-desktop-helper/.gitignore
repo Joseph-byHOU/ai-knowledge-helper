@@ -1,0 +1,34 @@
+# Dependencies
+node_modules/
+python-runtime/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Runtime data
+data/
+reports/
+my-ai-daily-news/data/
+my-ai-daily-news/reports/
+my-ai-daily-news/logs/
+
+# User-specific config (contains API keys / tokens)
+src/config.json
+my-ai-daily-news/config.json
+
+# OS / Editor
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Electron / build
+dist/
+out/
+build/
+
+# Playwright browsers (large binaries)
+Library/Caches/ms-playwright/
